@@ -1,0 +1,19 @@
+body {
+    color:white;
+    background:aquamarine;
+    margin: 0px
+}
+
+header {
+    border-bottom: solid 2px #bc2ae4;
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(186, 65, 241);
+}
+
+section{
+ background: rgb(231, 211, 240);
+ padding-bottom: 80px;
+ padding-top: 80px;
+ display: flex;
+}
