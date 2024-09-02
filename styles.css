@@ -2,7 +2,7 @@ body {
     color:white;
     background:aquamarine;
     margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
+    font-family: "Pixelify Sans", sans-serif;
 }
 
 header {
@@ -21,9 +21,13 @@ section{
 }
 
 .chamada-texto {
-    margin-right: 20px;
+    margin-right: 5%;
 }
 
 h1{
     font-size: 40px;
+}
+
+p{
+    font-size: 20px;
 }
